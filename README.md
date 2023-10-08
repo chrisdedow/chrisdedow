@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @chrisdedow
-- 👀 I’m interested in projects based in python, sql, or r.
-- 🌱 I’m currently a Staff Data Analyst by day and in a MS in data science and computational analytics at Georgia Tech by night.
-- 💞️ I’m looking to collaborate on python based projects focused on leveraging public financial data.
+- 👀 I’m interested in projects utilizing Python, SQL, and R.
+- 🌱 I’m currently focused on go-to-market analytics by day and building out my own applications by night.
+- 🎓 MS in data science and computational analytics from Georgia Tech.
+- 💞️ I’m looking to collaborate on Python-based projects focused on leveraging publicly available financial data, educational data, and mental health data.
 - 📫 How to reach me on LinkedIn: www.linkedin.com/in/christopherdedow
 
 <!---
